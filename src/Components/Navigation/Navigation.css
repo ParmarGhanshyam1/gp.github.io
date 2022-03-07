@@ -1,0 +1,33 @@
+.Navigation{
+    /*margin-right: -24px;
+    display: flex;
+    justify-content: space-between;*/
+    margin-left: 0px;
+    /* background-color: rgb(194, 194, 194); */
+    /* height: 30px;*/
+    margin-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+    /*height: 70px; */
+}
+
+/* ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+    background-color: gray;
+} */
+ li{
+    display: inline;
+    padding-left: 30px;
+    padding-top: 0px;
+    align-content: center;
+} 
+.logoimgs{
+    width: 230px;
+    height: 40px;
+}
+.drp{
+    border-color: white;
+}

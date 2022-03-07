@@ -1,0 +1,43 @@
+.NewArrivals{
+    
+    /* background-image: url('../../images/arrival-bg.jpg');  */
+    
+    height: 450px;
+    width: 100%;
+
+    padding-bottom: 100px;
+    margin-bottom: 200px;
+    /* background-color: red; */
+}
+.p1{
+    font-size: 50px;
+    text-align: right;
+    margin-right: 310px;
+    padding-top: 50px;
+}
+.p2{
+    text-align: left;
+    margin-left: 700px;
+    margin-right: 250;
+    padding-right: 120px;
+    padding-left: 25px;
+}
+.Showbtn{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 720px;
+    background-color: rgb(247, 82, 82);
+    color: white;
+    width: 155px;
+    height: 40px;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 200px;
+    border: none;
+}
+/* img{
+    margin-top: 100px;
+    height: auto;
+    width: 100%;
+} */

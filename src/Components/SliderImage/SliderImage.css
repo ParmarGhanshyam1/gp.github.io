@@ -1,0 +1,48 @@
+.SliderImage{
+    /* background-image: url('../../images/slider-bg.jpg'); */
+    /* background-color: brown; */
+    height: auto;
+    width:100%;
+    margin-top: 5px;
+    /* background-color: red; */
+    /* margin-bottom: -60px; */
+
+
+}
+.slideDiv{
+    margin-top: 10px;
+    background-color: red;
+    height: 600px;
+    /* margin-bottom: -50px; */
+}
+.slideP1{
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(241, 66, 66);
+    margin-left: 100px;
+    text-align: left;
+}
+.slideP2{
+    color: rgb(4, 32, 41);
+    text-align: left;
+    margin-left: 100px;
+    font-size: 60px;
+}
+.slideP3{
+    font-size: large;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 700px;
+}
+.slideBtn{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: rgb(247, 82, 82);
+    color: white;
+    width: 155px;
+    height: 40px;
+    font-size: large;
+    padding: 10px;
+    border: none;
+}

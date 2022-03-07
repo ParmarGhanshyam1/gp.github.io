@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.FastDelivery{
+    text-align: center;
+    color: white;
+    background-color: #06243E;
+    width: 350px;
+    margin-left: 70px;
+    text-align: center;
+    height: 200px;
+    border-radius: 6px;
+    margin-top: 50px;
+    
+}
+.FreeShiping{
+    width: 350px;
+    text-align: center;
+    color: white;
+    background-color: #06243E;
+    margin-left: 20px;
+    height: 200px;
+    border-radius: 6px;
+    margin-top: 50px;    
+
+}
+.BestQuality{
+    width: 350px;
+    text-align: center;
+    color: white;
+    background-color:#06243E;
+    margin-left: 20px;
+    height: 200px;
+    border-radius: 6px;
+    margin-top: 50px;
+}
+.line{
+    color:red;
+    width: 5%;
+    height: 4px; 
+    /* background-color: red; */
+}

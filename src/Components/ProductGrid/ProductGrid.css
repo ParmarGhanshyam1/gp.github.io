@@ -1,0 +1,30 @@
+.Product{
+    background-color: rgb(245, 245, 252);
+    height: 250px;
+    width: 700px;
+    text-align: center;
+    /* border-right: outset white 7px;
+    border-bottom: outset white 7px; */
+}
+.title{
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+}
+.divs{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.imgs{
+    width: 140px;
+    height: 170px;
+    padding-left: 15px;
+}
+
+.line{
+    color:red;
+    width: 5%;
+    height: 4px; 
+    background-color: red;
+
+}
